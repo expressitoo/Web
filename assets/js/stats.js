@@ -1,1 +1,2 @@
-alert(1);
+var = 1;
+console.log(var);
